@@ -38,21 +38,12 @@ InfoAssistant is a beautiful, modern, and cross-platform conversational assistan
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 <p align="center">
   <img src="assets/icon.png" alt="App Icon" width="120"/>
-  
+  <img src="assets/darktheme.png" alt="Dark Theme" width="120"/>
+  <img src="assets/lighttheme.png" alt="Light Theme" width="120"/>
 </p>
-<p align="right">
-  <img src="assets/darktheme.png" alt="App Icon" width="120"/>
-  
-</p>
-<p align="left">
-  <img src="assets/icon.png" alt="App Icon" width="120"/>
-  
-</p>
-
-
 
 ---
 
