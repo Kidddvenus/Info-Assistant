@@ -16,7 +16,6 @@ InfoAssistant is a beautiful, modern, and cross-platform conversational assistan
 ## Table of Contents
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [Demo](#demo)
 - [Getting Started](#getting-started)
 - [Requirements](#requirements)
 - [Project Structure](#project-structure)
