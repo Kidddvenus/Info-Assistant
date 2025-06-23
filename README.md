@@ -31,7 +31,6 @@ InfoAssistant is a beautiful, modern, and cross-platform conversational assistan
 - 🤖 **Conversational AI Chat**: Natural language Q&A with context-aware responses.
 - 🎤 **Speech Recognition**: Ask questions using your voice (powered by `speech_to_text`).
 - 🔊 **Text-to-Speech**: Listen to answers read aloud (powered by `flutter_tts`).
-- 💬 **Persistent Chat History**: Maintains conversation context for more relevant answers.
 - 🌗 **Dark & Light Mode**: Toggle between themes for comfortable viewing.
 - 🔗 **Link Detection**: Recognizes and enables clickable URLs in responses.
 - 🖥️ **Cross-Platform**: Runs on Android, iOS, Web, Windows, Linux, and macOS.
@@ -42,13 +41,18 @@ InfoAssistant is a beautiful, modern, and cross-platform conversational assistan
 ## Screenshots
 <p align="center">
   <img src="assets/icon.png" alt="App Icon" width="120"/>
-  <!-- Add more screenshots as needed -->
+  
+</p>
+<p align="right">
+  <img src="assets/darktheme.png" alt="App Icon" width="120"/>
+  
+</p>
+<p align="left">
+  <img src="assets/icon.png" alt="App Icon" width="120"/>
+  
 </p>
 
----
 
-## Demo
-<!-- Add a link to a demo video or GIF if available -->
 
 ---
 
@@ -139,8 +143,8 @@ This project is currently **unlicensed**. Please contact the maintainer if you w
 
 ## Contact
 For questions, suggestions, or collaboration:
-- GitHub: [yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [kidddvenus](https://github.com/kidddvenus)
+- Email: reggieomondi2002@gmail.com
 
 ---
 
